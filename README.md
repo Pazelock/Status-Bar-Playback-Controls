@@ -7,7 +7,7 @@ Status Bar Playback Controls Blender add-on
 ### Installation
 1. Download a version from https://github.com/Pazelock/Status-Bar-Playback-Controls/tree/main/Status-Bar-Playback-Controls
 2. Drag n' drop downloaded .zip file into Blender.
-3. Enable the add-on by clicking **Ok** in a pop-up.
+3. Enable the add-on by clicking **OK** in a pop-up.
 
 ### Usage
 In the middle of the status bar you can see the input field with current frame number on it. This replicates Blender's built-in interactive frame indicator.
