@@ -5,7 +5,7 @@ Status Bar Playback Controls Blender add-on
 **Status Bar Playback Controls** is a simple Blender add-on that allows user to control animation playback at all times without having **Timeline** open.
 
 ### Installation
-1. Download a version from https://github.com/Pazelock/Status-Bar-Playback-Controls/tree/main/Status-Bar-Playback-Controls
+1. Download a version from https://github.com/Pazelock/Status-Bar-Playback-Controls/tree/main/Status_Bar_Playback_Controls
 2. Drag n' drop downloaded .zip file into Blender.
 3. Enable the add-on by clicking **OK** in a pop-up.
 
