@@ -1,5 +1,5 @@
 # Latest stable version:
-Status_Bar_Playback_Controls_v1.1.0.zip
+[Status_Bar_Playback_Controls_v1.1.0.zip](https://github.com/Pazelock/Status-Bar-Playback-Controls/blob/main/Status_Bar_Playback_Controls/Status_Bar_Playback_Controls_v1.1.0.zip)
 
 # Updates:
 
